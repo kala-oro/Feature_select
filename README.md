@@ -13,7 +13,7 @@ Complete the integration of some basic methods for feature filtering
             Part2.4 Model based ranking
         method_choise == 3 if you want to use linear model and regex method to select features;
             Part3.1 LinearRegression
-            Part3.2 'L1' regex/ Lasso
+            Part3.2 'L1' regex / Lasso
             Part3.3 'L2' regex / Ridge
         mehtod_choise == 4 if use the RandomForest
             Part4.1 MDI(mean decrease impyrity)
